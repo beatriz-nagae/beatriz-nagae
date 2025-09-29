@@ -1,6 +1,6 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.tenor.com/m/KuohzN2j63IAAAAd/spongebob-karen.gif)" width="480"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Beatriz Nagae! You can call me Trixie.</h1>
