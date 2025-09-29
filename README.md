@@ -40,16 +40,16 @@ I don't believe DEVS should be grumpy and quiet. Coding can and should be an adv
 ### 🧩 Featured Projects
 
 🪴 **[Happy-Farm](https://github.com/beatriz-nagae/Happy-Farm)**  
-> Um projeto que mistura criatividade e lógica — explorando o aprendizado em Java.
+> Java and MySQL. Created with friends.
 
 🔍 **[prestashop-modded-search-bar](https://github.com/beatriz-nagae/prestashop-modded-search-bar)**  
-> Customização do Prestashop com uma barra de busca personalizada e lógica aprimorada.
+> Style coustomization for Prestashop, solving Usability issues.
 
 🍦 **[pdv-sorveteria](https://github.com/beatriz-nagae/pdv-sorveteria)**  
-> Meu primeiro sistema completo com **MongoDB + JavaScript** — PDV para uma sorveteria fictícia chamada *Saborvete*.
+> The first group System I joined using **MongoDB + JavaScript** — POS for a fictional Ice Cream Store.
 
 🏦 **[contaBancaria](https://github.com/beatriz-nagae/contaBancaria)**  
-> Exercício em Java para simular operações bancárias e reforçar lógica de programação.
+> Exercising Java.
 
 ---
 
@@ -62,7 +62,7 @@ I don't believe DEVS should be grumpy and quiet. Coding can and should be an adv
 
 ---
 
-### 💬 Let's Connect! :D
+### ✨ Reach me outtt! :D
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-nagae-151b59241" target="_blank">
@@ -76,7 +76,7 @@ I don't believe DEVS should be grumpy and quiet. Coding can and should be an adv
 ---
 
 <p align="center">
-  ✨ Feito com 💙 por <strong>Beatriz Nagae</strong>  
+  ✨Thanks for reading!
   <br>
-  <sub>Desbravando o mundo dev, um commit de cada vez 🚀</sub>
+  <sub> Exploring, testing, developing with care and joy</sub>
 </p>
