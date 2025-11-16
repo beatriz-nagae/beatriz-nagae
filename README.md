@@ -17,7 +17,8 @@
 
 I don't believe DEVS should be grumpy and quiet. Coding can and should be an adventure if you see it with caring eyes. I do not fear what I don't know. It's just a matter of time and persistence. Life is a Square Onix game, computer science is my quest, and I am all here for it. The sky's not the limit.
 
-— Thunderstruck starts playing. Everybody claps. There are fire effects everywhere. Rihanna plays the Zelda: Ocarina of Time soundtrack, but it's rock and roll 🔥🎸⚡.
+-> Thunderstruck starts playing. Everybody claps. There are fire effects everywhere. Rihanna plays the Zelda: Ocarina of Time soundtrack, but it's rock and roll !!!!!!!!!!!
+no chat gpt used for any of this sillyness. please do not me confunda.
   
 > “For a bunch of hairless apes, we've actually managed to invent some pretty incredible things.”  
 > — *Ready Player One*
