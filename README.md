@@ -24,17 +24,19 @@ no chat gpt used for any of this sillyness. please do not me confunda.
 > — *Ready Player One*
 
 ---
-
 ### 💡 Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20for%20Devs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Creative%20Thinking-%23FF69B4.svg?style=for-the-badge&logo=sparkfun&logoColor=white"/>
 </p>
+
 
 ---
 
