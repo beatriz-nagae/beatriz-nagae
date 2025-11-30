@@ -40,8 +40,11 @@ no chat gpt used for any of this sillyness. please do not me confunda.
 
 ### 🧩 Featured Projects
 
+🏦 **[Confia-Aqui](https://github.com/beatriz-nagae/confia-aqui)**  
+> Fullstack Java 21 + Postgre and Cloud AZ. Public Digital Security Project.
+
 🪴 **[Happy-Farm](https://github.com/beatriz-nagae/Happy-Farm)**  
-> Java and MySQL. Created with friends.
+> Fullstack Java and MySQL. Created with friends.
 
 🔍 **[prestashop-modded-search-bar](https://github.com/beatriz-nagae/prestashop-modded-search-bar)**  
 > Style coustomization for Prestashop, solving Usability issues.
@@ -49,8 +52,6 @@ no chat gpt used for any of this sillyness. please do not me confunda.
 🍦 **[pdv-sorveteria](https://github.com/beatriz-nagae/pdv-sorveteria)**  
 > The first group System I joined using **MongoDB + JavaScript** — POS for a fictional Ice Cream Store.
 
-🏦 **[contaBancaria](https://github.com/beatriz-nagae/contaBancaria)**  
-> Exercising Java.
 
 ---
 
