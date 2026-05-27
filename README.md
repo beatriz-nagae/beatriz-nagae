@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-🎓 **ADS student (4/5 semester)**  
+🎓 **ADS student (5/5 semester)**  
 🧠 Currently focusing about **Backend Development** and exploring **AI for Devs**  
 💭 Always learning, building, and breaking things to understand them better 
 
